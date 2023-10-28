@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\bin\Debug\ConsoleApp-WriteLine-Write.exe.config
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\bin\Debug\ConsoleApp-WriteLine-Write.exe
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\bin\Debug\ConsoleApp-WriteLine-Write.pdb
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\obj\Debug\ConsoleApp-WriteLine-Write.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\obj\Debug\ConsoleApp-WriteLine-Write.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\obj\Debug\ConsoleApp-WriteLine-Write.exe
+C:\Users\asus\source\repos\ConsoleApp-WriteLine-Write\ConsoleApp-WriteLine-Write\obj\Debug\ConsoleApp-WriteLine-Write.pdb
